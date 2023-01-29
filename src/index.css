@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@font-face {
+      font-family: 'Adlery';
+      src: url("/public/Adlery-Swash-trial.ttf");
+    }
+@font-face {
+      font-family: 'CaesarDressing';
+      src: url("/public/CaesarDressing-Regular.ttf");
+    }
+ 
+* {
+    -webkit-tap-highlight-color: transparent;   
+}
